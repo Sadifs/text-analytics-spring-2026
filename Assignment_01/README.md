@@ -66,7 +66,7 @@ All visualizations are embedded directly in the notebook output cells.
 
 ## How to Run
 
-1. Open the main notebook: (Assignment_01/notebooks/Sentiment_Analysis.ipynb)** 
+1. Open the main notebook:**[Sentiment Analysis Notebook](Assignment_01/notebooks/Sentiment_Analysis.ipynb)**
 2. Ensure the following Python libraries are installed:
 - pandas, numpy  
 - nltk  
