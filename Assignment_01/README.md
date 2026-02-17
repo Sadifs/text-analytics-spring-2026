@@ -67,7 +67,7 @@ All visualizations are embedded directly in the notebook output cells.
 ## How to Run
 
 1. Open the main notebook: **[Sentiment Analysis Notebook](notebooks/Sentiment_Analysis.ipynb)**
-2. Ensure the manually labeled evaluation file is present: **[Sample 100](data/sample_100_for_labeling.csv)** This file contains ground truth sentiment labels for a random 100-review subset and is used during the evaluation step.
+2. Ensure the manually labeled evaluation file is present: **[Sample 100](data/sample_100_for_labeling.csv)** (this file contains ground truth sentiment labels for a random 100-review subset and is used during the evaluation step)
 3.  Ensure the following Python libraries are installed:
 - pandas, numpy  
 - nltk  
