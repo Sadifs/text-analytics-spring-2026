@@ -15,7 +15,7 @@ Each assignment demonstrates different NLP techniques using Python.
 - **Topic:** Comparing VADER and TextBlob sentiment analysis
 - **Dataset:** IMDB 50K Movie Reviews (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - **Key Skills:** Text preprocessing, sentiment analysis, model comparison
-- **[View Assignment →](assignment1/)**
+- **[View Assignment →](notebooks/Sentiment_Analysis.ipynb)**
 
 ## Skills Demonstrated
 - Python programming
