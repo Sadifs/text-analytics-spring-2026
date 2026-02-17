@@ -76,3 +76,9 @@ All visualizations are embedded directly in the notebook output cells.
 - torch  
 - matplotlib, seaborn  
 4. Run the notebook cells sequentially from top to bottom.
+---
+## AI Usage Documentation
+
+All AI-assisted interactions used during this assignment are transparently documented in the following file:
+
+- **AI Usage Log:** `docs/AI_usage_log.md`
