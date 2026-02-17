@@ -16,7 +16,7 @@ AI tools (ChatGPT) were used to assist with clarifying assignment requirements, 
 ## Interaction 1: Assignment Requirement Clarification
 
 **Date:** February 2026  
-**Time Spent:** ~15 minutes  
+**Time Spent:** ~30 minutes  
 
 **What I Was Trying to Do:**  
 Understand evaluation requirements, expected deliverables, and grading emphasis for the assignment.
@@ -45,7 +45,7 @@ The AI initially treated evaluation as one step among many. I identified its gre
 ## Interaction 2: Transformer Runtime Issue
 
 **Date:** February 2026  
-**Time Spent:** ~20 minutes  
+**Time Spent:** ~1 hr  
 
 **What I Was Trying to Do:**  
 Run transformer-based inference efficiently without freezing the notebook.
@@ -106,7 +106,7 @@ The AI presented the mapping as a straightforward solution without emphasizing s
 ## Interaction 4: Code Debugging and Execution Order
 
 **Date:** February 2026  
-**Time Spent:** ~20 minutes  
+**Time Spent:** ~1-2 hrs  
 
 **What I Was Trying to Do:**  
 Fix execution issues and ensure the notebook ran cleanly from top to bottom.
@@ -135,7 +135,7 @@ Some AI suggestions assumed variables persisted across cells. I corrected this b
 ## Interaction 5: Final Analysis and Comparison Drafting
 
 **Date:** February 2026  
-**Time Spent:** ~15 minutes  
+**Time Spent:** ~45 minutes  
 
 **What I Was Trying to Do:**  
 Structure the final comparison table, recommendations, and limitations clearly.
@@ -163,7 +163,7 @@ None significant in this interaction.
 ## Interaction 6: README and GitHub Repository Structure
 
 **Date:** February 2026  
-**Time Spent:** ~15 minutes  
+**Time Spent:** ~30 minutes  
 
 **What I Was Trying to Do:**  
 Organize the GitHub repository and prepare a README that satisfies the assignment submission checklist.
