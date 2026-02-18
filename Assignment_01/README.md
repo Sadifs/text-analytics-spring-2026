@@ -58,8 +58,8 @@ The notebook includes the following results and visual outputs:
 - Text length distribution histogram during exploratory analysis  
 - Comparison of sentiment label distributions across models  
 - Accuracy comparison table based on the manually labeled 100-review sample  
-- Success and failure case examples for each model  
-All visualizations are embedded directly in the notebook output cells.
+- Success and failure case examples for each model
+- All visualizations are embedded directly in the notebook output cells.
 ---
 ## Reflection 
 
