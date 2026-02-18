@@ -59,12 +59,11 @@ The notebook includes the following results and visual outputs:
 - Comparison of sentiment label distributions across models  
 - Accuracy comparison table based on the manually labeled 100-review sample  
 - Success and failure case examples for each model  
-
 All visualizations are embedded directly in the notebook output cells.
 ---
 ## Reflection 
 
-This project highlighted that sentiment model performance depends heavily on text characteristics and task context rather than model complexity alone. While the Transformer model captured richer emotional nuance, it required additional interpretation and higher computational cost, whereas VADER performed reliably on expressive, long-form reviews. Manually labeling a subset of reviews reinforced the subjectivity of sentiment and the importance of human oversight when evaluating model outputs.
+This project highlighted that sentiment model performance depends heavily on text characteristics and task context rather than model complexity alone. While the Transformer model captured richer emotional nuance, it required additional interpretation and higher computational cost whereas VADER performed reliably on expressive, long-form reviews. Manually labeling a subset of reviews reinforced the subjectivity of sentiment and the importance of human oversight when evaluating model outputs.
 
 ---
 
