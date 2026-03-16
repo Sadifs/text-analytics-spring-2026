@@ -17,6 +17,14 @@ Each assignment demonstrates different NLP techniques using Python.
 - **Key Skills:** Text preprocessing, sentiment analysis, model comparison
 - **[View Assignment →](Assignment_01/notebooks/Sentiment_Analysis.ipynb)**
 
+### Assignment 2: Text Classification
+
+- **Topic:** Building supervised machine learning models for ESG sentence classification
+- **Dataset:** SASB-Aligned ESG Sentences
+- **Key Skills:** Text preprocessing, TF-IDF vectorization, supervised classification, model evaluation
+- **Models:** Logistic Regression and Naive Bayes
+- **View Assignment →** [Assignment 2](Assignment_02)
+  
 ## Skills Demonstrated
 - Python programming
 - Natural Language Processing
