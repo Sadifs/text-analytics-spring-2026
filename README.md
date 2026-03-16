@@ -20,7 +20,7 @@ Each assignment demonstrates different NLP techniques using Python.
 ### Assignment 2: Text Classification
 
 - **Topic:** Building supervised machine learning models for ESG sentence classification
-- **Dataset:** SASB-Aligned ESG Sentences
+- **Dataset:** SASB-Aligned ESG Sentences (https://www.kaggle.com/datasets/edwardjunprung/sasb-aligned-esg-sentences)
 - **Key Skills:** Text preprocessing, TF-IDF vectorization, supervised classification, model evaluation
 - **Models:** Logistic Regression and Naive Bayes
 - **View Assignment →** [Assignment 2](Assignment_02)
