@@ -9,9 +9,9 @@
 
 ## Overview
 
-This document describes how AI tools were used during Assignment 2 in accordance with the **Tier-2 AI Usage Policy**.
+This document describes how AI tools were used during Assignment 2 in accordance with the Tier-2 AI Usage Policy.
 
-AI was used **only for implementation support, debugging, and conceptual clarification**. All **model evaluation, feature engineering decisions, model selection decisions, error analysis, and reflection were completed independently**, as required by the assignment guidelines.
+AI was used only for implementation support, debugging, and conceptual clarification. All model evaluation, feature engineering decisions, model selection decisions, error analysis, and reflection were completed independently, as required by the assignment guidelines.
 
 ---
 
@@ -25,7 +25,7 @@ AI tools were used for the following permitted tasks:
 - Debugging syntax errors
 - Understanding machine learning concepts
 - Code organization and optimization
-- Generating the **20 custom inference examples** used in Step 7 of the assignment
+- Generating the 20 custom inference examples used in Step 7 of the assignment
 
 Example prompts included:
 
@@ -39,7 +39,7 @@ These prompts helped implement the technical parts of the assignment but did not
 
 ### Restricted Uses of AI (Not Used)
 
-The following tasks were completed **without AI assistance**, in accordance with the Tier-2 policy:
+The following tasks were completed without AI assistance, in accordance with the Tier-2 policy:
 
 - Error analysis using confusion matrices and classification reports
 - Identifying misclassification patterns
@@ -56,7 +56,7 @@ All of these decisions were based on my own interpretation of the results genera
 
 ### Problem
 
-The dataset showed **class imbalance**, with the *Non-ESG* category representing a large portion of the dataset while *Business Model & Innovation* appeared much less frequently.
+The dataset showed class imbalance, with the Non-ESG category representing a large portion of the dataset while Business Model & Innovation appeared much less frequently.
 
 ### Independent Analysis (without AI)
 
@@ -104,7 +104,7 @@ These later prompts included more context about the dataset and modeling pipelin
 
 At one point, AI suggested experimenting with additional complex models such as Random Forest.
 
-After testing multiple models independently, I observed that **Logistic Regression with TF-IDF features produced the strongest performance** for this dataset. Text classification datasets often produce **high-dimensional sparse features**, which are well suited to linear models such as Logistic Regression.
+After testing multiple models independently, I observed that Logistic Regression with TF-IDF features produced the strongest performance for this dataset. Text classification datasets often produce high-dimensional sparse features, which are well suited to linear models such as Logistic Regression.
 
 Based on my experimental results, I selected Logistic Regression as the final model rather than using the more complex models initially suggested by AI.
 
@@ -119,7 +119,7 @@ AI was used only for permitted tasks such as:
 - explaining machine learning concepts  
 - improving code structure and readability  
 
-AI was **not used for restricted tasks**, including:
+AI was not used for restricted tasks, including:
 
 - error analysis  
 - feature engineering decisions  
@@ -127,4 +127,4 @@ AI was **not used for restricted tasks**, including:
 - evaluation of custom inference results  
 - final reflection writing  
 
-All analytical reasoning and conclusions were completed independently in order to comply with the **Tier-2 AI usage policy**.
+All analytical reasoning and conclusions were completed independently in order to comply with the Tier-2 AI usage policy.
