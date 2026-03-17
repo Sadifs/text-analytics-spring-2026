@@ -37,7 +37,7 @@ The model performed well when sentences closely resembled the language commonly 
 
 **2. Confusion between related ESG categories**
 
-Some errors occurred between categories with overlapping themes, particularly between **Human Capital** and **Social Capital**. Both categories frequently involve language related to employees, community engagement, and stakeholder relationships, which can make them difficult to distinguish.
+Some errors occurred between categories with overlapping themes, particularly between **Human Capital** and **Social Capital**. Both categories frequently involve language related to employees, community engagement and stakeholder relationships, which can make them difficult to distinguish.
 
 **3. Difficulty with out-of-domain examples**
 
